@@ -1,0 +1,4 @@
+{
+    "api": "https://www.coinspot.com.au/pubapi/latest",
+    "coinList": "['btc', 'ltc', 'doge', 'eth', 'powr', 'ans', 'xrp', 'trx', 'eos', 'str', 'rfox', 'rhoc', 'gas', 'ada']"
+}

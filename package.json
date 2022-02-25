@@ -1,0 +1,22 @@
+{
+  "name": "coin-prices",
+  "version": "0.1.0",
+  "description": "Get coin prices from CoinSpot. THIS IS A TEMP REPOSITORY. WILL BE DELETED IN FUTURE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-chine-leismore/coin-prices.git"
+  },
+  "author": "Kyle Chine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyle-chine-leismore/coin-prices/issues"
+  },
+  "homepage": "https://github.com/kyle-chine-leismore/coin-prices#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
