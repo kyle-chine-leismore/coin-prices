@@ -1,5 +1,12 @@
 {
     "api": "https://www.coinspot.com.au/pubapi/latest",
     "coinList": ["btc", "ltc", "doge", "eth", "powr", "ans", "xrp", "trx", "eos", "str", "rfox", "rhoc", "gas", "ada"],
-    "interval": 1000
+    "interval": 1000,
+
+    "mysql": {
+        "host": "localhost",
+        "user": "trader",
+        "password": "TRADER_PASSWORD",
+        "database": "trader"
+    }
 }
