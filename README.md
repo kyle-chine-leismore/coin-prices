@@ -34,6 +34,8 @@ Install Node.js according to <https://nodejs.org/en/download>
 
 `git clone https://github.com/kyle-chine-leismore/coin-prices.git`
 
+`npm install`
+
 Modify the configuration file `config.json` according to your environment.
 
 ## Starting your application
